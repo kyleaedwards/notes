@@ -1,9 +1,9 @@
 ---
 title: InfluxDB
-tags: technology, databases
+tags: technology, databases, other
 ---
 
-**InfluxDB** is an open-source database written in Go to handle time series data and uses a similar query language to SQL.
+**InfluxDB** is a fantastic, open-source database written in Go to handle time series data and uses a similar query language to SQL.
 
 ### Time Series Data
 A sequence of data point, typically consisting of successive measurements made from the same source over a time interval.
