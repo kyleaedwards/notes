@@ -32,4 +32,3 @@ Plugin for the `taskrunner` suite. Cycles through the domains, running them agai
 - [x] Improve logging on the taskrunner.
 - [ ] Add useful to console.time on lookups.
 - [ ] Add a last resolved column in the table?
-- [x]
